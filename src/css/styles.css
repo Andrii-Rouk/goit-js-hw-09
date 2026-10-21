@@ -70,6 +70,7 @@ form label {
 
 textarea {
   border: none;
+  outline: transparent;
   margin-bottom: 16px;
   border-radius: 4px;
   border: 1px solid #808080;
@@ -87,6 +88,7 @@ input {
   justify-content: center;
   align-items: flex-start;
   padding: 8px 20px;
+  outline: transparent;
   border-radius: 4px;
   border: 1px solid #808080;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
